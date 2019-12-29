@@ -1,0 +1,7 @@
+C:\Users\blear\source\repos\Playstation3\Playstation3\bin\Debug\Playstation3.dll
+C:\Users\blear\source\repos\Playstation3\Playstation3\bin\Debug\Playstation3.pdb
+C:\Users\blear\source\repos\Playstation3\Playstation3\obj\Debug\Playstation3.csprojAssemblyReference.cache
+C:\Users\blear\source\repos\Playstation3\Playstation3\obj\Debug\Playstation3.dll
+C:\Users\blear\source\repos\Playstation3\Playstation3\obj\Debug\Playstation3.pdb
+C:\Users\blear\source\repos\Playstation3\Playstation3\bin\Debug\ps3tmapi_net.dll
+C:\Users\blear\source\repos\Playstation3\Playstation3\obj\Debug\Playstation3.csproj.CopyComplete
